@@ -10,8 +10,8 @@ My name is Cody De La Torre and I have basic knowledge of object oreinted progra
 ***How to stay in a Growth Mindset***
 
 - Realize that **everbody** fails before they learn.
-- I don't understand it now but I will understand it **later**. <sup>(as long as I study)</sup>
-- Look at the previous days and seeing how much you've learned.
+- I may not understand it now but I will understand it **later**. <sup>(as long as I study)</sup>
+- Look at the previous days and seeing how much I've learned.
 
 
-Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and also a link to my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage.
+Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and a link to my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage.
