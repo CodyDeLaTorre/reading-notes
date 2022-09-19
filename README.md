@@ -14,4 +14,4 @@ My name is Cody De La Torre and I have basic knowledge of object oreinted progra
 - Look at the previous days and seeing how much I've learned.
 
 
-Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and a link to my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage :sunglasses:	.
+:sunglasses:	Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and a link to my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage :sunglasses:	.
