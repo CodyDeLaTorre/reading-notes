@@ -1,4 +1,4 @@
-# My Reading Journal for *Code Fellows*
+# My Reading Journal for *Code Fellows* 
 
 My name is Cody De La Torre and I have basic knowledge of object oreinted programming through self study and a python class in College.
 
@@ -14,4 +14,4 @@ My name is Cody De La Torre and I have basic knowledge of object oreinted progra
 - Look at the previous days and seeing how much I've learned.
 
 
-Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and a link to my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage.
+Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and a link to my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage :sunglasses:	.
