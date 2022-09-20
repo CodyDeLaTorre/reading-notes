@@ -8,6 +8,10 @@ My name is Cody De La Torre and I have basic knowledge of object oreinted progra
 
 ## Table of Contents
 
+[Growth Mindest Help](102/growth-mindest.md)
+
 [Class 1 notes](102/markdown-notes.md)
 
 [Class 2 notes](102/coders-computer-notes.md)
+
+[Class 3 notes](102/revisions-cloud.md)

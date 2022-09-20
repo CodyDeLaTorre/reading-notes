@@ -13,16 +13,29 @@ everything is a file
 
 case sesnitive
 
-*commands*
--pwd = where am I?
--cd = changes directory
--mkdir = creates directory
--touch = creates file
--ls = lists files
--ls -a = list ALL files
--tree = creats a file tree
--ctrl + c =stop
-code . = opens vscode
+### Linux Commands
+
+- pwd = where am I?
+- cd = changes directory
+- mkdir = creates directory
+- touch = creates file
+- ls = lists files
+- ls -a = list ALL files
+- tree = creates a file tree
+- ctrl + c = stop
+- code . = opens vscode
+
+#### Linux Git Commannds & ACP(Add, Commit, Push) process
+
+- git clone + link = save from github to local
+
+ACP
+
+- git status = did I make a change?
+- git add = add a change
+- git add . = all changes
+- git commit -m = commit with a message
+- git push origin main = save to Github main branch
 
 [basic tutorial on linux](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 

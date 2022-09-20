@@ -1,4 +1,8 @@
-# Growth Mindset: The embodiment of not giving up and knowing that failure is part of the learning process.
+# Growth Mindset
+
+The embodiment of not giving up and knowing that failure is part of the learning process
+
+---------------------
 
 ***How to stay in a Growth Mindset***
 
