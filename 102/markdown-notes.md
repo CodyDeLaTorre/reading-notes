@@ -10,4 +10,6 @@ Some basic ways to format [Markdown](https://docs.github.com/en/get-started/writ
 
 ![cheat sheet](MDStyling.PNG)
 
+---
+
 [Back to Home](../README.md)

@@ -15,3 +15,5 @@ My name is Cody De La Torre and I have basic knowledge of object oreinted progra
 [Class 2 notes](102/coders-computer-notes.md)
 
 [Class 3 notes](102/revisions-cloud.md)
+
+[Class 4 notes](102/structure-webpages.md)

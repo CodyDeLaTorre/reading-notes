@@ -8,4 +8,6 @@ You can create a copy of an existing Git repository from a particular server by 
 
 *$ git clone + url*
 
+---
+
 [Back to Home](../README.md)
