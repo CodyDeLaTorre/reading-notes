@@ -29,13 +29,13 @@ There are heaps of free wireframe tools out there but don’t forget that you ca
 
 ## Resources
 
-[html resource one](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[Html resource one](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
-[html resource two](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+[Html resource two](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-[html resource 3](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[Html resource three](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[html resource 4](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+[Html resource four](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ---
 
