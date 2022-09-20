@@ -1,4 +1,4 @@
-# Reading 2 Notes
+# Reading Assignment 2 Notes
 
 ## Important features of a text editor
 
