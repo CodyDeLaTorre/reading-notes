@@ -25,3 +25,8 @@ case sesnitive
 code . = opens vscode
 
 [basic tutorial on linux](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+![linux cheat](https://user-images.githubusercontent.com/103235685/191307806-8b023eb3-6eb7-4b4b-8a1a-ada7f0bf4d61.PNG)
+
+
+
