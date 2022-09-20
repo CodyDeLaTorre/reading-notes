@@ -16,6 +16,6 @@ My name is Cody De La Torre and I have basic knowledge of object oreinted progra
 
 :sunglasses:	Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and a link to my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage :sunglasses:	.
 
-Read 01:
+[Reading 1 notes](https://github.com/CodyDeLaTorre/reading-notes/blob/main/markdown-notes.md)
 
 Read 02:
