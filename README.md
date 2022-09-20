@@ -20,4 +20,4 @@ My name is Cody De La Torre and I have basic knowledge of object oreinted progra
 
 [Reading 1 notes](https://github.com/CodyDeLaTorre/reading-notes/blob/main/markdown-notes.md)
 
-Read 02:
+[Read 2 notes](https://github.com/CodyDeLaTorre/reading-notes/blob/main/coders-computer-notes.md)
