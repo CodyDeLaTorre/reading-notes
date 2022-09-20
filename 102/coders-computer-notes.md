@@ -1,15 +1,15 @@
 # Reading 2 Notes
 
-### Important features of a text editor:
+## Important features of a text editor
+
 - Code completion
 - Syntax
 highlighting
--Extensions
-
+- Extensions
 
 ### Linux
 
-everything is a file 
+everything is a file
 
 case sesnitive
 
@@ -28,5 +28,4 @@ code . = opens vscode
 
 ![linux cheat](https://user-images.githubusercontent.com/103235685/191307806-8b023eb3-6eb7-4b4b-8a1a-ada7f0bf4d61.PNG)
 
-
-
+[Back to Home](../README.md)
