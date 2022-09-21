@@ -20,4 +20,6 @@ My name is Cody De La Torre, I'm and I can't wait to be the best coder I can be.
 
 [Class 5 notes](102/read-5.md)
 
+[Class 6 notes](102/read-6.md)
+
 ---
