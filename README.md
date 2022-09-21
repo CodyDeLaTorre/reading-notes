@@ -17,3 +17,7 @@ My name is Cody De La Torre, I'm and I can't wait to be the best coder I can be.
 [Class 3 notes](102/revisions-cloud.md)
 
 [Class 4 notes](102/structure-webpages.md)
+
+[Class 5 notes](102/read-5.md)
+
+---

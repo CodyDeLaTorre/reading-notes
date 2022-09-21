@@ -42,3 +42,7 @@ With the currentcolor keyword
 [CSS Functions Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+
+---
+
+[Back to Home](../README.md)
