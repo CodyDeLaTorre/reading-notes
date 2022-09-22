@@ -2,7 +2,7 @@
 
 ## Wireframing
 
-![Wireframe Example](wireframe_ex.png)
+![Wireframe Example](images/wireframe_ex.png)
 
 There are heaps of free wireframe tools out there but don’t forget that you can also just use pen and paper! 
 
@@ -21,11 +21,11 @@ There are heaps of free wireframe tools out there but don’t forget that you ca
 
 ### Anatomy of an HTML Document
 
-![html anatomy](htmlAnatomy.PNG)
+![html anatomy](images/htmlAnatomy.PNG)
 
 ### Semantic examples
 
-![html Semantics](htmlSem.PNG)
+![html Semantics](images/htmlSem.PNG)
 
 ## Resources
 
