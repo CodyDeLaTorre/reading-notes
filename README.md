@@ -10,18 +10,20 @@ My name is Cody De La Torre, I'm and I can't wait to be the best coder I can be.
 
 [Growth Mindest Help](102/growth-mindest.md)
 
-[Class 1 notes](102/markdown-notes.md)
+[Class 1 notes](102/read-1.md)
 
-[Class 2 notes](102/coders-computer-notes.md)
+[Class 2 notes](102/read-2.md)
 
-[Class 3 notes](102/revisions-cloud.md)
+[Class 3 notes](102/read-3.md)
 
-[Class 4 notes](102/structure-webpages.md)
+[Class 4 notes](102/read-4.md)
 
 [Class 5 notes](102/read-5.md)
 
 [Class 6 notes](102/read-6.md)
 
 [Class 7 notes](102/read-7.md)
+
+[Class 8 notes](102/read-8.md)
 
 ---

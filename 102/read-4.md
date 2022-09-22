@@ -4,9 +4,9 @@
 
 ![Wireframe Example](images/wireframe_ex.png)
 
-There are heaps of free wireframe tools out there but don’t forget that you can also just use pen and paper! 
+There are heaps of free wireframe tools out there but don’t forget that you can also just use pen and paper
 
-*three online tools*
+### three online tools
 
 - UXPin
 - InVision
