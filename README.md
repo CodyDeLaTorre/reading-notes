@@ -1,6 +1,6 @@
 # My Reading Journal for *Code Fellows*
 
-My name is Cody De La Torre, I'm and I can't wait to be the best coder I can be.
+My name is Cody De La Torre and I can't wait to be the best coder I can be.
 
  Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage
 
@@ -25,5 +25,7 @@ My name is Cody De La Torre, I'm and I can't wait to be the best coder I can be.
 [Class 7 notes](102/read-7.md)
 
 [Class 8 notes](102/read-8.md)
+
+[Canvas Link to 102](https://canvas.instructure.com/courses/5233612)
 
 ---
