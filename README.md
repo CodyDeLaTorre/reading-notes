@@ -1,12 +1,16 @@
 # My Reading Journal for *Code Fellows*
 
-My name is Cody De La Torre and I can't wait to be the best coder I can be.
+My name is Cody De La Torre and this is my frist personal website that I created for my reading notes during my time studying with Code Fellows
 
  Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage
 
 ---
 
 ## Table of Contents
+
+---
+
+## Code 102
 
 [Growth Mindest Help](102/growth-mindest.md)
 
@@ -27,5 +31,11 @@ My name is Cody De La Torre and I can't wait to be the best coder I can be.
 [Class 8 notes](102/read-8.md)
 
 [Canvas Link to 102](https://canvas.instructure.com/courses/5233612)
+
+---
+
+## Code 201
+
+[Canvas Link to 201](https://canvas.instructure.com/courses/5307554)
 
 ---
