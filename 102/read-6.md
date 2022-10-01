@@ -23,9 +23,6 @@ If you want your code to run in older browers you have to use var
 
 [CheatSheet for JS](https://htmlcheatsheet.com/js/)
 
-
-
-
 ---
 
 ### Resources
