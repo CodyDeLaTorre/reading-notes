@@ -41,7 +41,7 @@
 
 3. 3 comparison operators: === strictly equals, ==! strictly doesn't equal, and < less than
 
-4. the <code>&&</code> operator = and the <code>||</code> operator = or
+4. the `&&` operator = and the `||` operator = or
 
 ## Things I want to know more about
 
