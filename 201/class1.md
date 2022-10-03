@@ -36,7 +36,7 @@
 
 ### 3. Finding Images
 
-- You can find images by using the Google License Finder by clicking tools and then choosing Creatice Commons Licenses for Usage rights 
+- You can find images by using the Google License Finder by clicking tools and then choosing Creative Commons Licenses for Usage rights 
 
 ### 4. String VS Number Javascript
 
@@ -45,7 +45,7 @@
 
 ### Variables in JS
 
-- A variable are containers that store values
+- A variable is containers that store values
 
 - Variables in JavaScript are important because they let you personalize code by being able to make anything a variable and make things dynamic
 
@@ -55,11 +55,11 @@
 
 ### 1. An HTML Attribute
 
-- An attribute contains extra information about an elemtent that doesn't appear in the content
+- An attribute contains extra information about an element that doesn't appear in the content
 
 ### 2. Anatomy of an HTML Element
 
-- An  HTML element has and opening tag "<", content, and a closing tag ">"
+- An  HTML element has an opening tag "<", content, and a closing tag ">"
 
 ### 3. Article VS Section Tags
 
@@ -85,25 +85,25 @@
 
 ### Designing a Website
 
-- The first thing to do when designing a webiste define your goals
+- The first thing to do when designing a website is define your goals
 
 - The question to answer is "what do I want to accomplish?"
 
 ### Semantics
 
-- H1 vs Span: Use the right the tool for the Job. It will be more work to make the span look like a heading when H1 is already one
+- H1 vs Span: Use the right tool for the Job. It will be more work to make the span look like a heading when H1 is already one
 
-- Semeantics are important for many reasons, screen readers use them as signposts for visually impaired people and search engines will consider its as important keywords to influence the page's search rankings
+- Semantics are important for many reasons, screen readers use them as signposts for visually impaired people and search engines will consider its as important keywords to influence the page's search rankings
 
 ### What is JavaScript?
 
-- 2 things that require JS: Running code in respone to certain event and completing operations on text
+- 2 things that require JS: Running code in response to a certain event and completing operations on text
 
-- You can add JS through a link element or in line code
+- You can add JS through a link element or in-line code
 
 ---
 
-### Resoruces
+### Resources
 
 [How The Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
