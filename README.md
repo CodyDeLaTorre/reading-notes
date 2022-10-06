@@ -42,6 +42,8 @@ My name is Cody De La Torre and this is my frist personal website that I created
 
 [Class 3 notes](201/class3.md)
 
+[Clas 4 notes](201/class4.md)
+
 [Canvas Link to 201](https://canvas.instructure.com/courses/5307554)
 
 ---
