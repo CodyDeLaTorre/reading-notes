@@ -48,6 +48,8 @@ My name is Cody De La Torre and this is my frist personal website that I created
 
 [Class 6 notes](201/class6.md)
 
+[Class 7 notes](201/class7.md)
+
 [Canvas Link to 201](https://canvas.instructure.com/courses/5307554)
 
 ---
