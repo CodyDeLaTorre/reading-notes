@@ -1,6 +1,6 @@
 # My Reading Journal for *Code Fellows*
 
-My name is Cody De La Torre and this is my frist personal website that I created for my reading notes during my time studying with Code Fellows
+My name is Cody De La Torre and this is my first personal website that I created for my reading notes during my time studying with Code Fellows
 
  Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage
 
@@ -49,6 +49,8 @@ My name is Cody De La Torre and this is my frist personal website that I created
 [Class 6 notes](201/class6.md)
 
 [Class 7 notes](201/class7.md)
+
+[Class 8 notes](201/class8.md)
 
 [Canvas Link to 201](https://canvas.instructure.com/courses/5307554)
 
