@@ -6,7 +6,7 @@
 
 2. There are 6 levels of heading in HTML
 
-3. Some uses for the sup and sub elements are for dates, chemical formulae, and mathematical equations
+3. Some uses for the sup and sub-elements are for dates, chemical formulae, and mathematical equations
 
 4. When using the abbr element in HTML you must add plain text of the full expansion of the term the first time to inform users what the abbreviation means
 
@@ -27,7 +27,7 @@
 
 ## JS Bsics
 
-1. A string is a datatype that is text surrounded in quotation marks
+1. A string is a datatype that is text surrounded by quotation marks
 
 2. 4 JS Operators: + addition , - subtraction , / division , * multiplication
 

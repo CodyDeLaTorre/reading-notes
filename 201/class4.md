@@ -2,7 +2,7 @@
 
 ## HTML Links
 
-1. To creat a link in html we wrap the text in an a tag.
+1. To create a link in html we wrap the text in an a tag.
 
 2. The href attribute contains the actual link
 
@@ -12,7 +12,7 @@
 
 1. Normal flow is the way the webpage gets laid out by default
 
-2. Block level elements fill all availabe in-line space of the parent element while in-line elements are just the size of their content
+2. Block level elements fill all available in-line space of the parent element while in-line elements are just the size of their content
 
 3. Static positioning is the default that every element gets
 
@@ -26,11 +26,11 @@
 
 2. Parameters and arguments are the same thing
 
-## Pari Programming
+## Pair Programming
 
-1. I think Job Environment Readiness of pair programming will benfit me becasue i have never been in a job that required programming
+1. I think Job Environment Readiness of pair programming will benefit me becasue i have never been in a job that required programming
 
-2. I also think think I could benefit from the greater efficiency since mistakes are more easily caught in pair programming 
+2. I also think I could benefit from the greater efficiency since mistakes are more easily caught in pair programming
 
 ---
 

@@ -9,7 +9,7 @@
 ### Clients and Servers
 
 - clients are typically web users
-- servers are computers that store webpages, sites or apps
+- servers are computers that store webpages, sites, or apps
 
 ### JavaScript
 
@@ -36,7 +36,7 @@
 
 ### 3. Finding Images
 
-- You can find images by using the Google License Finder by clicking tools and then choosing Creative Commons Licenses for Usage rights 
+- You can find images by using the Google License Finder by clicking tools and then choosing Creative Commons Licenses for Usage rights
 
 ### 4. String VS Number Javascript
 
@@ -45,7 +45,7 @@
 
 ### Variables in JS
 
-- A variable is containers that store values
+- A variable is a container that stores values
 
 - Variables in JavaScript are important because they let you personalize code by being able to make anything a variable and make things dynamic
 
@@ -73,11 +73,11 @@
 
 ### 5. Metadata Influence on Search Engine
 
-- The content in the metadata helps describe the webiste in the search engine
+- The content in the metadata helps describe the website in the search engine
 
 ### 6. Meta Tag
 
-- can set character encoding
+- can set the character encoding
 - can show an author
 - can show content
 
@@ -93,7 +93,7 @@
 
 - H1 vs Span: Use the right tool for the Job. It will be more work to make the span look like a heading when H1 is already one
 
-- Semantics are important for many reasons, screen readers use them as signposts for visually impaired people and search engines will consider its as important keywords to influence the page's search rankings
+- Semantics are important for many reasons, screen readers use them as signposts for visually impaired people and search engines will consider them as important keywords to influence the page's search rankings
 
 ### What is JavaScript?
 
