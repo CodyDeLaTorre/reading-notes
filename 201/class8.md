@@ -2,9 +2,9 @@
 
 ## CSS - Flexbox
 
-1. You can control alignment in one axis, a row or a column, not both together as we can do in grid.
+1. You can control alignment in one axis, a row or a column, but not both together as we can do in grid.
 
-2. Your cross axis is alwasy opposite of you main axis and you can set the main axis either to column or row
+2. Your cross axis is always opposite of your main axis and you can set the main axis either to column or row
 
 3. A screen reader will read out the content in the logical order and reordering the visual display away from how things are ordered in the HTML document negatively impacts accessibility
 
@@ -23,4 +23,5 @@
 [CSS Layout- Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
 ---
+
 [Back to Home](../README.md)
