@@ -54,6 +54,8 @@ My name is Cody De La Torre and this is my first personal website that I created
 
 [Class 9 notes](201/class9.md)
 
+[Class 10 notes](201/class10.md)
+
 [Canvas Link to 201](https://canvas.instructure.com/courses/5307554)
 
 ---
