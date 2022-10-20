@@ -56,6 +56,16 @@ My name is Cody De La Torre and this is my first personal website that I created
 
 [Class 10 notes](201/class10.md)
 
+[Class 11 notes](201/class11.md)
+
+[Class 12 notes](201/class12.md)
+
+[Class 13 notes](201/class13.md)
+
+[Class 14 notes](201/class14.md)
+
+[Class 15 notes](201/class15.md)
+
 [Canvas Link to 201](https://canvas.instructure.com/courses/5307554)
 
 ---
