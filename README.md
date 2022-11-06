@@ -72,4 +72,6 @@ My name is Cody De La Torre and this is my first personal website that I created
 
 ## Code 301
 
+[Class 1 Reading](301/read1.md)
+
 [Canvas link to 301](https://canvas.instructure.com/courses/5510563?invitation=1aYNI8KrcJp6mqXlnL6axSgcbcgb2O1b3DsrwBjT)
