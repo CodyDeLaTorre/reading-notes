@@ -80,4 +80,8 @@ My name is Cody De La Torre and this is my first personal website that I created
 
 [Class 4 Reading](301/read4.md)
 
+[Class 5 Reading](301/read5.md)
+
+[Class 6 Reading](301/read6.md)
+
 [Canvas link to 301](https://canvas.instructure.com/courses/5510563?invitation=1aYNI8KrcJp6mqXlnL6axSgcbcgb2O1b3DsrwBjT)
