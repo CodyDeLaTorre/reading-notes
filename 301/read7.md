@@ -23,7 +23,6 @@
 
 [Conversation on REST](https://gist.github.com/brookr/5977550)
 
-
 ---
 
 [Back to Home](../README.md)
