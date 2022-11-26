@@ -92,4 +92,8 @@ My name is Cody De La Torre and this is my first personal website that I created
 
 [Class 10 Reading](301/read10.md)
 
+[Class 11 Reading](301/read11.md)
+
+[Class 12 Reading](301/read12.md)
+
 [Canvas link to 301](https://canvas.instructure.com/courses/5510563?invitation=1aYNI8KrcJp6mqXlnL6axSgcbcgb2O1b3DsrwBjT)
