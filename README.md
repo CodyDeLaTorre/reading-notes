@@ -1,6 +1,6 @@
 # My Reading Journal for *Code Fellows*
 
-My name is Cody De La Torre and this is my first personal website that I created for my reading notes during my time studying with Code Fellows
+My name is *Cody De La Torre* and this is my **first** personal website that I created for my reading notes during my time studying with Code Fellows
 
  Here is a link to my [Github Portfolio](https://github.com/CodyDeLaTorre) and my [LinkedIn](https://www.linkedin.com/in/cody-de-la-torre/) webpage
 
@@ -100,4 +100,14 @@ My name is Cody De La Torre and this is my first personal website that I created
 
 [Class 14 Reading](301/read14.md)
 
+[Class 15 Reading](301/read15.md)
+
 [Canvas link to 301](https://canvas.instructure.com/courses/5510563?invitation=1aYNI8KrcJp6mqXlnL6axSgcbcgb2O1b3DsrwBjT)
+
+---
+
+## Code 401
+
+[Class 1 Reading](401/class1.md)
+
+[Canvas link to 401](https://canvas.instructure.com/courses/5755799/assignments/33981570)
