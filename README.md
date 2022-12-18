@@ -108,6 +108,8 @@ My name is *Cody De La Torre* and this is my **first** personal website that I c
 
 ## Code 401
 
+[Learn Linux](401/terminal.md)
+
 [Class 1 Reading](401/class1.md)
 
 [Canvas link to 401](https://canvas.instructure.com/courses/5755799/assignments/33981570)
