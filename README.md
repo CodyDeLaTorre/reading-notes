@@ -114,6 +114,8 @@ My name is *Cody De La Torre* and this is my **first** personal website that I c
 
 [Engineering Reading](401/eng.md)
 
+[SQL Practice](401/sql.md)
+
 [Class 1 Reading](401/class1.md)
 
 [Class 2 Reading](401/class2.md)
