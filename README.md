@@ -112,6 +112,8 @@ My name is *Cody De La Torre* and this is my **first** personal website that I c
 
 [Growth Mindest Revisit](401/growth.md)
 
+[Engineering Reading](401/eng.md)
+
 [Class 1 Reading](401/class1.md)
 
 [Canvas link to 401](https://canvas.instructure.com/courses/5755799/assignments/33981570)
