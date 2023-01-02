@@ -116,6 +116,8 @@ My name is *Cody De La Torre* and this is my **first** personal website that I c
 
 [SQL Practice](401/sql.md)
 
+[Stack & Queues](401/stackandqs.md)
+
 [Class 1 Reading](401/class1.md)
 
 [Class 2 Reading](401/class2.md)
