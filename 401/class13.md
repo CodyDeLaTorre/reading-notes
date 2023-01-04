@@ -1,6 +1,6 @@
-# Class 12 Reading Notes
+# Class 13 Reading Notes
 
-## Pyhton Lineat Regression
+## Pyhton Linear Regression
 
 Scikit-learn is a Python package that simplifies the implementation of a wide range of Machine Learning (ML) methods.
 
