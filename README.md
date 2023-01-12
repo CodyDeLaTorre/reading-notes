@@ -150,4 +150,6 @@ My name is *Cody De La Torre* and this is my **first** personal website that I c
 
 [Class 18 Reading](401/class18.md)
 
+[Class 19 Reading](401/class19.md)
+
 [Canvas link to 401](https://canvas.instructure.com/courses/5755799/assignments/33981570)
