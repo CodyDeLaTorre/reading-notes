@@ -156,4 +156,6 @@ My name is *Cody De La Torre* and this is my **first** personal website that I c
 
 [Class 27 Reading](401/read27.md)
 
+[Class 31 Reading](401/read31.md)
+
 [Canvas link to 401](https://canvas.instructure.com/courses/5755799/assignments/33981570)
