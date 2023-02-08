@@ -156,6 +156,8 @@ My name is *Cody De La Torre* and this is my **first** personal website that I c
 
 [Class 27 Reading](401/read27.md)
 
+[Class 28 Reading](401/read28.md)
+
 [Class 31 Reading](401/read31.md)
 
 [Class 32 Reading](401/read32.md)
