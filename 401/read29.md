@@ -1,6 +1,6 @@
 # Class 29 Reading Notes
 
-## Danjgo Custom User
+## Django Custom User
 
 - It's highly recommended to use a custom user rather than Djangos built-in user for real world projects
 - to get started create a custom user model and two new forms (usercreation and userchange)
@@ -9,11 +9,11 @@
 
 ## Django X
 
-Django X is super useful template for creating django projects!!
+Django X is a super useful template for creating django projects!!
 
 ## Things I Want To Know More About
 
-- Why cant we use the base user model? Is the custom user just more flexible?
+- Why can't we use the base user model? Is the custom user just more flexible?
 
 ---
 
