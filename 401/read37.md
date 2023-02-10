@@ -35,7 +35,7 @@ Next.js features:
 
 [REACT Overview](https://reactjs.org/docs/hello-world.html)
 
-[NExt.JS](https://nextjs.org/learn/basics/create-nextjs-app)
+[Next.JS](https://nextjs.org/learn/basics/create-nextjs-app)
 
 ---
 
