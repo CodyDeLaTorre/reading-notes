@@ -5,8 +5,8 @@
 ### WHAT
 
 - graphs are a non-linear data structure that is a collection of vertices/nodes
-- undireacted graph is where each vertice is bi-directional meaning the graph doesnt move in any direction
-- direceted graph or digraph has each node directed at eachother
+- undirected graph is where each vertice is bi-directional meaning the graph doesnt move in any direction
+- directed graph or digraph has each node directed at eachother
 
 ### WHY
 
@@ -14,7 +14,7 @@
 
 ### HOW
 
-- You can traverse through graphs using breadth first simailar to Binary Trees.
+- You can traverse through graphs using breadth-first similar to Binary Trees.
 - Here is what the algorithm breadth first traversal looks like:
 
 - Enqueue the declared start node into the Queue.
