@@ -1,10 +1,10 @@
 # Class 36 Reading Notes
 
-## Data Sructure and Algorithm Review
+## Data Structure and Algorithm Review
 
 ### Whiteboard Advice
 
-1. Communciate: take time to really understand the problem before trying to solve it. Restate question, ask about edge cases and test cases.
+1. Communicate: take time to really understand the problem before trying to solve it. Restate question, and ask about edge cases and test cases.
 2. Write psuedocode and asks if it makes sense! It's possible to get hints out of this
 3. Same as above, write your code then asks if it looks good.
 4. Ask for help or tips if you're struggling
