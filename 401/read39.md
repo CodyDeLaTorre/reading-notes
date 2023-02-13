@@ -5,7 +5,7 @@
 ### NextJS
 
 - Next JS development server has a fast refresh so when you make a change you see it almost instantaneously
-- us Link component to link all of your pages
+- Use Link component to link all of your pages
 - use Link over a tags because it allows you to do client-side navigation and accepts props.
 - use Image over img tags: your build times aren't increased, whether shipping 10 images or 10 million images. Images are lazy loaded by default. That means your page speed isn't penalized for images outside the viewport. Images load as they are scrolled into viewport.
 - Use Head instead of the head tag
