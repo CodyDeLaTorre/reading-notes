@@ -22,8 +22,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // Try changing to isLoggedIn={true}:
 root.render(<Greeting isLoggedIn={false} />);
 
-- You can use lists to reder multiple compenents by mapping or using for each methods and creating elements for each item.
-- You can easily render Forms as well with Reac just like any other HTML element. Yopu have to make functions to handle the submits though and make sure to preventDefault!!!
+- You can use lists to render multiple components by mapping or using for each methods and creating elements for each item.
+- You can easily render Forms as well with Reac just like any other HTML element. You have to make functions to handle the submits though and make sure to preventDefault!!!
 
 ---
 
